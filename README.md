@@ -1,6 +1,15 @@
 ## Hi there 👋
 
 <!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ezeun&fontSize=90&animation=scaleIn)
+-->
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xorjs1011)](https://solved.ac/xorjs1011)
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegun1011&show_icons=true&theme=radical)-->
+
+<!--
 **taegun1011/taegun1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
