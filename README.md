@@ -10,6 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegun1011&show_icons=true&theme=radical)
 
 ## 개발 역량
+뱃지 추가는 여기서 https://github.com/Ileriayo/markdown-badges
 ### 적당히 아는 언어
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-8A2BE2.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
